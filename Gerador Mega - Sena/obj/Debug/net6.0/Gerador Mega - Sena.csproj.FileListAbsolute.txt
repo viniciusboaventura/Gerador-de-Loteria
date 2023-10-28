@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\Gerador Mega - Sena\bin\Debug\net6.0\Gerador Mega - Sena.exe
+C:\Users\vinic\source\repos\Gerador Mega - Sena\bin\Debug\net6.0\Gerador Mega - Sena.deps.json
+C:\Users\vinic\source\repos\Gerador Mega - Sena\bin\Debug\net6.0\Gerador Mega - Sena.runtimeconfig.json
+C:\Users\vinic\source\repos\Gerador Mega - Sena\bin\Debug\net6.0\Gerador Mega - Sena.dll
+C:\Users\vinic\source\repos\Gerador Mega - Sena\bin\Debug\net6.0\Gerador Mega - Sena.pdb
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.dll
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\refint\Gerador Mega - Sena.dll
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.pdb
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\Gerador Mega - Sena.genruntimeconfig.cache
+C:\Users\vinic\source\repos\Gerador Mega - Sena\obj\Debug\net6.0\ref\Gerador Mega - Sena.dll
